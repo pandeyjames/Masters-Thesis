@@ -1,0 +1,58 @@
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot_MarkupCompile.cache
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot_MarkupCompile.lref
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\SIMLBot.exe.config
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\SIMLBot.exe
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\SIMLBot.pdb
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Jint.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.Bot.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.EmotionML.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.Log.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.Oryzer.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.Utilities.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.VA.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.WordNet.dll
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.Bot.xml
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.EmotionML.xml
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\bin\Debug\Syn.VA.xml
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.g.resources
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.Properties.Resources.resources
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csproj.CopyComplete
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.exe
+C:\Users\Admin\Desktop\SIMLBot\SIMLBot\obj\Debug\SIMLBot.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\SIMLBot.exe.config
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\SIMLBot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\SIMLBot.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Jint.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.Bot.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.EmotionML.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.Log.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.Oryzer.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.Utilities.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.VA.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.WordNet.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.Bot.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.EmotionML.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\bin\Debug\Syn.VA.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot_MarkupCompile.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot_MarkupCompile.lref
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.g.resources
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.Properties.Resources.resources
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.csproj.CopyComplete
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\SIMLBot\SIMLBot\obj\Debug\SIMLBot.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\bin\Debug\AIMLbot.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\MyBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\MyBot.csproj.CopyComplete
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\bin\Debug\MyBot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\bin\Debug\MyBot.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\MyBot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\MyBot.pdb

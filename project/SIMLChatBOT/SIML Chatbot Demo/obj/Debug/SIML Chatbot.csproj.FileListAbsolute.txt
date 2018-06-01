@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\SIML Chatbot.exe.config
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\SIML Chatbot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\SIML Chatbot.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Jint.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.Bot.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.EmotionML.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.Log.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.Oryzer.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.Utilities.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.VA.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.WordNet.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.Bot.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.EmotionML.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\bin\Debug\Syn.VA.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot_MarkupCompile.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.g.resources
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML_Chatbot.Properties.Resources.resources
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.csproj.CopyComplete
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\C__WPF_Project-noexe\SIML Chatbot Demo\obj\Debug\SIML Chatbot.pdb

@@ -1,0 +1,31 @@
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.exe
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.pdb
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\bin\Debug\HotShotBot.exe
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\bin\Debug\HotShotBot.pdb
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\bin\Debug\AIMLbot.dll
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.csprojResolveAssemblyReference.cache
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.exe
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.pdb
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\Bot\bin\Debug\HotShotBot.exe
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\Bot\bin\Debug\HotShotBot.pdb
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\Bot\bin\Debug\AIMLbot.dll
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.csprojResolveAssemblyReference.cache
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.exe
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.pdb
+F:\Ongoing_Temp\HotShotBot v1.0\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\bin\Debug\HotShotBot.exe
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\bin\Debug\HotShotBot.pdb
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\bin\Debug\AIMLbot.dll
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csproj.CopyComplete
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.exe
+C:\Users\Admin\Desktop\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\bin\Debug\HotShotBot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\bin\Debug\HotShotBot.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\bin\Debug\AIMLbot.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.csproj.CopyComplete
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.exe
+C:\Users\Admin\Desktop\Masters Thesis\project\HotShotBot v1.0\HotShotBot\obj\x86\Debug\HotShotBot.pdb

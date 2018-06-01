@@ -1,0 +1,94 @@
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Demo.dll.config
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Demo.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Demo.pdb
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Owin.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\WebGrease.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\Admin\Desktop\livechatstarterkit\src\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Demo.dll.config
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Demo.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Demo.pdb
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Jint.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Owin.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.Bot.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.EmotionML.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.Log.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.Oryzer.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.Utilities.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.VA.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.WordNet.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.Bot.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.EmotionML.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\Syn.VA.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\Admin\Desktop\Masters Thesis\project\DemonstratorWebChatbot\src\Demo\Demo\obj\Debug\Demo.pdb
